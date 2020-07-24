@@ -200,7 +200,7 @@ public class HotRecordController extends JeecgController<HotRecord, IHotRecordSe
             hotRecord.setRecordSum(hot.getRecordSum() + 1);
             hotRecordService.update(hotRecord, queryWrapper);
             return Result.ok(list);
-            //System.out.println("aaa");
+
         }
 
     }
