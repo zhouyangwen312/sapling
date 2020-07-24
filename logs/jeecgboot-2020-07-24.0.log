@@ -370,3 +370,5 @@
 2020-07-24 11:37:07.618 [RMI TCP Connection(3)-192.168.99.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/jeecg-boot]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2020-07-24 11:37:07.619 [RMI TCP Connection(3)-192.168.99.1] INFO  org.springframework.web.servlet.DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
 2020-07-24 11:37:07.646 [RMI TCP Connection(3)-192.168.99.1] INFO  org.springframework.web.servlet.DispatcherServlet:546 - Completed initialization in 27 ms
+2020-07-24 11:37:09.084 [RMI TCP Connection(5)-192.168.99.1] INFO  io.lettuce.core.EpollProvider:68 - Starting without optional epoll library
+2020-07-24 11:37:09.085 [RMI TCP Connection(5)-192.168.99.1] INFO  io.lettuce.core.KqueueProvider:70 - Starting without optional kqueue library
